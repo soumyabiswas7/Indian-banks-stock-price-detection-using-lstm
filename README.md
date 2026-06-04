@@ -116,6 +116,6 @@ http://localhost:8501
 
 Soumya Biswas
 
-B.Tech CSE (AI & ML)
+B.Tech Computer Science & Information Technology
 
-Machine Learning | Deep Learning | Full-Stack Development
+Machine Learning | Deep Learning 
